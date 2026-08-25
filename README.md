@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi, I'm Taku 👋
 
-<!--
-**Taku0172/Taku0172** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graduate student in Economics at Kobe University.
 
-Here are some ideas to get you started:
+I am interested in the intersection of **behavioral economics, game theory, sports, and data analysis**, with a focus on understanding and visualizing human decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Research Interests
+
+- Behavioral Economics
+- Game Theory
+- Delay Discounting
+- Experimental Economics
+- Sports Economics
+- Data Analysis & Simulation
+
+## 🎮 Game Theory Playground
+
+I develop interactive browser-based simulations to make game-theoretic models easier to understand through experimentation.
+
+### Simulations
+
+- Evolutionary Game
+- Minority Game
+- Repeated Prisoner's Dilemma
+- Ultimatum Game
+- Auction Simulator
+
+The Auction Simulator, for example, allows users to compare First-Price and Second-Price auctions and explore how risk aversion can affect bidding behavior and revenue equivalence.
+
+## 🛠 Tech Stack
+
+**Languages / Analysis**
+
+`Python` `R` `TypeScript` `JavaScript` `SQL`
+
+**Web / Simulation**
+
+`React` `Vite` `Chart.js` `HTML` `CSS`
+
+**Research / Statistics**
+
+`Econometrics` `Machine Learning` `Experimental Design`
+
+**Development**
+
+`Git` `GitHub` `Vitest`
+
+## 📚 Current Focus
+
+- Developing interactive game-theory simulations
+- Experimental and behavioral economics
+- Econometric and data-science methods
+- Visualization of economic mechanisms
+
+## 🔗 Projects
+
+🎮 **Game Theory Playground**  
+Interactive simulations for learning game theory.
+
+📊 **Auction Simulator**  
+First-price vs. second-price auctions, revenue equivalence, and risk aversion.
+
+---
+
+Building tools that turn economic models into something you can **see, manipulate, and experiment with**.
