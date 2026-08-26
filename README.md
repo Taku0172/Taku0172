@@ -57,9 +57,6 @@ The Auction Simulator, for example, allows users to compare First-Price and Seco
 🎮 **Game Theory Playground**  
 Interactive simulations for learning game theory.
 
-📊 **Auction Simulator**  
-First-price vs. second-price auctions, revenue equivalence, and risk aversion.
-
 ---
 
 Building tools that turn economic models into something you can **see, manipulate, and experiment with**.
