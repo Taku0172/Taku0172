@@ -1,101 +1,81 @@
-# Hi, I'm Taku 👋
+<div align="center">
 
-Graduate student in Economics at Kobe University.
+  <h1>Hi, I'm Taku 👋</h1>
 
-I am interested in **behavioral economics, game theory, and data analysis**, particularly in understanding how people make decisions and how those mechanisms can be analyzed and visualized through data and simulation.
+  <p>
+    <b>Economics × Behavioral Science × Simulation</b>
+  </p>
 
-My current work spans empirical research and the development of interactive economic simulations.
+  <br/>
 
----
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0AB2F7&center=true&vCenter=true&width=650&lines=Behavioral+Economics+%C3%97+Game+Theory;Research+%C3%97+Data+%C3%97+Simulation;Exploring+Human+Decision+Making"
+      alt="Typing SVG"
+    />
+  </a>
 
-## 🔬 Research Interests
+</div>
 
-- Behavioral Economics
-- Experimental Economics
-- Game Theory
-- Decision Making
-- Sports Economics
+<br/>
 
-I am particularly interested in connecting **economic theory with observable human behavior** through experiments, statistical analysis, and simulation.
+<p align="center">
+  Graduate Student in Economics at Kobe University 🇯🇵
+</p>
 
----
+<p align="center">
+  Interested in <b>Behavioral Economics</b>, <b>Game Theory</b>,
+  <b>Econometrics</b>, and <b>Simulation</b>.
+</p>
 
-## 🎮 Game Theory Playground
+<p align="center">
+  I build interactive simulations to explore how people make decisions,
+  interact strategically, and respond to incentives.
+</p>
 
-I am developing a collection of interactive browser-based simulations for exploring game-theoretic mechanisms.
+<br/>
 
-The goal is not only to explain economic models mathematically, but also to make it possible to **change assumptions, run simulations, and observe how outcomes change**.
+<p align="center">
+  🧠 Behavioral Economics
+  &nbsp; • &nbsp;
+  🎮 Game Theory
+  &nbsp; • &nbsp;
+  📊 Data Analysis
+  &nbsp; • &nbsp;
+  💻 Simulation
+</p>
 
-### Simulations
+<br/>
 
-| Project | What you can explore |
-|---|---|
-| 🧬 **Evolutionary Game** | Strategy evolution, cooperation, and population dynamics |
-| 👥 **Minority Game** | Adaptive behavior and coordination in competitive environments |
-| 🤝 **Repeated Prisoner's Dilemma** | Cooperation, defection, and repeated interaction |
-| ⚖️ **Ultimatum Game** | Bargaining, fairness, and rejection behavior |
-| 🔨 **Auction Simulator** | First-price vs. second-price auctions, revenue equivalence, and risk aversion |
+<p align="center">
+  ─────────────────────────────────────────────
+</p>
 
----
+<h2 align="left">👋 About Me</h2>
 
-## 📊 Research & Data Analysis
+<p align="left">
+  I am a graduate student in Economics at Kobe University, with interests in
+  <b>behavioral economics</b>, <b>game theory</b>, and <b>empirical analysis</b>.
+</p>
 
-My research focuses on behavioral decision-making using experimental and quantitative approaches.
+<p align="left">
+  My main interest is understanding how people make decisions under uncertainty,
+  strategic interaction, and bounded rationality.
+</p>
 
-I have experience with:
+<p align="left">
+  I use <b>Python</b>, <b>R</b>, <b>TypeScript</b>, and interactive simulation tools
+  to connect economic theory with observable behavior.
+</p>
 
-- Experimental design
-- Statistical hypothesis testing
-- Regression analysis
-- Econometrics
-- Behavioral data analysis
-- Simulation
-- Data visualization
+<p align="left">
+  I am currently developing a series of interactive game-theory simulators,
+  including evolutionary games, repeated prisoner's dilemma, ultimatum games,
+  auctions, and beauty-contest games.
+</p>
 
-I am also exploring how computational tools can complement empirical research by making theoretical mechanisms directly observable.
+<p align="left">
+  My broader goal is to make economic and behavioral theories easier to explore
+  through data, experiments, and simulation.
+</p>
 
----
-
-## 🛠 Tech Stack
-
-### Data Analysis
-
-`Python` `R` `SPSS`
-
-### Web & Simulation
-
-`TypeScript` `JavaScript` `React` `Vite` `HTML` `CSS` `Chart.js`
-
-### Development
-
-`Git` `GitHub` `Vitest`
-
-### Methods
-
-`Econometrics` `Machine Learning` `Experimental Design` `Simulation`
-
----
-
-## 🚀 Current Focus
-
-Currently working on:
-
-- Interactive game-theory simulations
-- Behavioral and experimental economics
-- Applied econometrics
-- Economic mechanism visualization
-- Reproducible analysis and testing
-
----
-
-## 💡 What I Want to Build
-
-I am interested in creating tools that connect
-
-**Theory → Data → Simulation → Decision Making**
-
-Rather than treating economic models only as equations, I want to make their assumptions and consequences something that can be **tested, visualized, and explored interactively**.
-
----
-
-Thanks for visiting!
