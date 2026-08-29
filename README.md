@@ -79,156 +79,46 @@
   through data, experiments, and simulation.
 </p>
 
-<h2 align="left">🧠 Research Interests</h2>
+<h2>🧠 Research Interests</h2>
 
 <table>
-  <tr>
-    <td align="center" width="200">
-      <h3>🧠</h3>
-      <b>Behavioral Economics</b>
-      <br/>
-      <sub>Decision Making · Delay Discounting · Bounded Rationality</sub>
-    </td>
-
-    <td align="center" width="200">
-      <h3>🎮</h3>
-      <b>Game Theory</b>
-      <br/>
-      <sub>Strategic Interaction · Bargaining · Evolutionary Games</sub>
-    </td>
-
-    <td align="center" width="200">
-      <h3>📊</h3>
-      <b>Empirical Analysis</b>
-      <br/>
-      <sub>Econometrics · Experiments · Causal Inference</sub>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="200">
-      <h3>🏃</h3>
-      <b>Sports × Economics</b>
-      <br/>
-      <sub>Exercise · Behavior · Sports Industry</sub>
-    </td>
-
-    <td align="center" width="200">
-      <h3>🤝</h3>
-      <b>Negotiation</b>
-      <br/>
-      <sub>Bargaining · Agreement · Decision Processes</sub>
-    </td>
-
-    <td align="center" width="200">
-      <h3>💻</h3>
-      <b>Computational Simulation</b>
-      <br/>
-      <sub>Agent-Based Models · Interactive Experiments</sub>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="33%">
+🧠<br>
+<strong>Behavioral Economics</strong><br>
+<sub>Decision Making · Delay Discounting · Bounded Rationality</sub>
+</td>
+<td align="center" width="33%">
+🎮<br>
+<strong>Game Theory</strong><br>
+<sub>Strategic Interaction · Bargaining · Evolutionary Games</sub>
+</td>
+<td align="center" width="33%">
+📊<br>
+<strong>Empirical Analysis</strong><br>
+<sub>Econometrics · Experiments · Causal Inference</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+🏃<br>
+<strong>Sports × Economics</strong><br>
+<sub>Exercise · Behavior · Sports Industry</sub>
+</td>
+<td align="center" width="33%">
+🤝<br>
+<strong>Negotiation</strong><br>
+<sub>Bargaining · Agreement · Decision Processes</sub>
+</td>
+<td align="center" width="33%">
+💻<br>
+<strong>Computational Simulation</strong><br>
+<sub>Agent-Based Models · Interactive Experiments</sub>
+</td>
+</tr>
 </table>
 
-<br/>
-
-<h2 align="left">🎮 Game Theory Playground</h2>
-
-<p align="left">
-  A collection of interactive simulations designed to make
-  <b>game theory and strategic decision-making</b> intuitive and explorable.
-</p>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧬 Evolutionary Game</h3>
-      <p>
-        Explore how strategies evolve through repeated interaction,
-        selection, and adaptation.
-      </p>
-      <p>
-        <b>Topics:</b> Evolutionary Game Theory · Strategy Dynamics
-      </p>
-      <a href="https://github.com/Taku0172/Evolutionary-Game">
-        <b>View Repository →</b>
-      </a>
-    </td>
-
-    <td width="50%" valign="top">
-      <h3>👥 Minority Game</h3>
-      <p>
-        Simulate how individual decisions generate aggregate patterns
-        when being in the minority is advantageous.
-      </p>
-      <p>
-        <b>Topics:</b> Coordination · Adaptive Behavior
-      </p>
-      <a href="https://github.com/Taku0172/Minority-Game">
-        <b>View Repository →</b>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤝 Repeated Prisoner's Dilemma</h3>
-      <p>
-        Compare strategies and observe how cooperation can emerge
-        through repeated interaction.
-      </p>
-      <p>
-        <b>Topics:</b> Cooperation · Repeated Games
-      </p>
-      <a href="https://github.com/Taku0172/Repeated-Prisoners-Dilemma">
-        <b>View Repository →</b>
-      </a>
-    </td>
-
-    <td width="50%" valign="top">
-      <h3>⚖️ Ultimatum Game</h3>
-      <p>
-        Explore bargaining behavior when fairness and strategic
-        incentives interact.
-      </p>
-      <p>
-        <b>Topics:</b> Bargaining · Fairness · Behavioral Economics
-      </p>
-      <a href="https://github.com/Taku0172/Ultimatum-Game">
-        <b>View Repository →</b>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💰 Auction Simulator</h3>
-      <p>
-        Compare auction mechanisms and examine bidding behavior,
-        seller revenue, and risk aversion.
-      </p>
-      <p>
-        <b>Topics:</b> Auction Theory · Mechanism Design · Risk Aversion
-      </p>
-      <a href="https://github.com/Taku0172/Auction-Simulator">
-        <b>View Repository →</b>
-      </a>
-    </td>
-
-    <td width="50%" valign="top">
-      <h3>🎯 Beauty Contest</h3>
-      <p>
-        Explore bounded rationality through p-beauty contests
-        and level-k reasoning.
-      </p>
-      <p>
-        <b>Topics:</b> Level-k · Bounded Rationality · Strategic Reasoning
-      </p>
-      <a href="https://github.com/Taku0172/Beauty-Contest-Simulator">
-        <b>View Repository →</b>
-      </a>
-    </td>
-  </tr>
-</table>
+<br>
 
 <br/>
 
@@ -244,77 +134,66 @@
 
 <br/>
 
-<h2 align="left">⚙️ Tools & Technologies</h2>
+<h2>⚙️ Tools & Technologies</h2>
 
-<p align="left">
-  Tools I use for research, data analysis, experiments, and simulation development.
+<p>
+Tools I use for research, data analysis, experiments, and simulation development.
 </p>
 
 <table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R" />
-      <br>R
-    </td>
-
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
-      <br>Vite
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br>CSS
-    </td>
-
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br>GitHub
-    </td>
-
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      <br>VS Code
-    </td>
-
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
-      <br>Actions
-    </td>
-  </tr>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"><br>
+<strong>Python</strong>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R"><br>
+<strong>R</strong>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"><br>
+<strong>TypeScript</strong>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"><br>
+<strong>JavaScript</strong>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"><br>
+<strong>React</strong>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite"><br>
+<strong>Vite</strong>
+</td>
+</tr>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML"><br>
+<strong>HTML</strong>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS"><br>
+<strong>CSS</strong>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"><br>
+<strong>Git</strong>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"><br>
+<strong>GitHub</strong>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"><br>
+<strong>VS Code</strong>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions"><br>
+<strong>Actions</strong>
+</td>
+</tr>
 </table>
 
-<br/>
+<br>
 
