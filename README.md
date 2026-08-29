@@ -36,14 +36,6 @@ The goal is not only to explain economic models mathematically, but also to make
 | ⚖️ **Ultimatum Game** | Bargaining, fairness, and rejection behavior |
 | 🔨 **Auction Simulator** | First-price vs. second-price auctions, revenue equivalence, and risk aversion |
 
-### Featured Project: Auction Simulator
-
-The Auction Simulator compares **First-Price and Second-Price Auctions** under the same private values.
-
-It also allows users to change bidders' risk aversion and observe how relaxing the risk-neutrality assumption can alter bidding behavior and break the standard revenue-equivalence benchmark.
-
-**Tech:** React / TypeScript / Vite / Chart.js / Vitest
-
 ---
 
 ## 📊 Research & Data Analysis
