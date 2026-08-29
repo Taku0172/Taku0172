@@ -175,3 +175,31 @@
   <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat&logo=githubpages&logoColor=white">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
 </p>
+
+<h2>📊 Stats & Activity</h2>
+
+<h3>🔥 Streak Stats</h3>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Taku0172&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+<h3>💻 GitHub Profile Stats</h3>
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Taku0172&show_icons=true&hide_border=true&theme=tokyonight"
+    alt="GitHub Stats"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taku0172&layout=compact&hide_border=true&theme=tokyonight"
+    alt="Top Languages"
+  />
+</p>
+
+<br>
