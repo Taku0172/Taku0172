@@ -13,10 +13,8 @@ My current work spans empirical research and the development of interactive econ
 - Behavioral Economics
 - Experimental Economics
 - Game Theory
-- Delay Discounting
 - Decision Making
 - Sports Economics
-- Applied Econometrics
 
 I am particularly interested in connecting **economic theory with observable human behavior** through experiments, statistical analysis, and simulation.
 
