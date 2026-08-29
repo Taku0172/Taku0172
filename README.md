@@ -134,66 +134,44 @@
 
 <br/>
 
-<h2>⚙️ Tools & Technologies</h2>
+<h2>🛠️ Tools & Technologies</h2>
+
+<h3>👨‍💻 Programming & Markup Languages</h3>
 
 <p>
-Tools I use for research, data analysis, experiments, and simulation development.
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 </p>
 
-<table>
-<tr>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"><br>
-<strong>Python</strong>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R"><br>
-<strong>R</strong>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"><br>
-<strong>TypeScript</strong>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"><br>
-<strong>JavaScript</strong>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"><br>
-<strong>React</strong>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite"><br>
-<strong>Vite</strong>
-</td>
-</tr>
-<tr>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML"><br>
-<strong>HTML</strong>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS"><br>
-<strong>CSS</strong>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"><br>
-<strong>Git</strong>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"><br>
-<strong>GitHub</strong>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"><br>
-<strong>VS Code</strong>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions"><br>
-<strong>Actions</strong>
-</td>
-</tr>
-</table>
+<h3>🧰 Frameworks & Libraries</h3>
 
-<br>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white">
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white">
+  <img src="https://img.shields.io/badge/oTree-Experimental%20Economics-555555?style=flat">
+</p>
 
+<h3>📊 Research & Data Analysis</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/SPSS-052FAD?style=flat">
+  <img src="https://img.shields.io/badge/Econometrics-Data%20Analysis-4B5563?style=flat">
+  <img src="https://img.shields.io/badge/Experimental-Economics-8A2BE2?style=flat">
+</p>
+
+<h3>🔧 Development & Deployment</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat&logo=githubpages&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
+</p>
